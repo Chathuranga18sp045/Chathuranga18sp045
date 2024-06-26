@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chathuranga Graduate Student University Of Jsffna</h1>
+<h1 align="center">Hi 👋, I'm Chathuranga Graduate Student University Of Jaffna</h1>
 <h3 align="center">A passionate Trainee developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chathuranga18sp045&label=Profile%20views&color=0e75b6&style=flat" alt="chathuranga18sp045" /> </p>
@@ -42,6 +42,9 @@
     </a>
     <a href="https://www.php.net/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/>
+    </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="50" height="50"/>
     </a>
 </p>
 
