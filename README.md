@@ -15,6 +15,13 @@
 <p align="left">
 <a href="https://stackoverflow.com/users/23197200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23197200" height="30" width="40" /></a>
 <a href="https://fb.com/chathuranga malik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathuranga malik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chathuranga-malik-b61295201" target="_blank" rel="noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+<a href="mailto:chathurangamalik1997@gmail.com" target="_blank" rel="noreferrer">
+    <img align="center" src="https://img.icons8.com/fluent/48/000000/gmail.png" alt="email" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
