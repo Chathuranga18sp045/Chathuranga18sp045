@@ -46,6 +46,9 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="50" height="50"/>
     </a>
+    <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress"     width="50" height="50"/>
+    </a>
 </p>
 
 <h3 align="left">Support:</h3>
