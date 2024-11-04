@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Chathuranga Graduate Student University Of Jaffna</h1>
+<h1 align="center">Hi 👋, I'm Chathuranga Associate Software Developer </h1>
+<h2 align="center">@NexSign Global PVT Ltd</h2>
 <h3 align="center">A passionate Trainee developer from Sri Lanka</h3>
 
 <p align="left"> 
