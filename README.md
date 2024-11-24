@@ -78,6 +78,13 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="50" height="50" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
     </a>
+ <a href="https://laravel-livewire.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/livewire/livewire/main/art/logo.svg" alt="Livewire" width="100" height="100" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'"/>
+</a>
+
+
+
+
 </p>
 
 <h3 align="left">Support:</h3>
